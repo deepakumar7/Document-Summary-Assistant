@@ -2,6 +2,9 @@
 
 Document Summary Assistant is a web application that allows users to upload documents and generate summarized versions. The project is built using modern web development technologies and provides a user-friendly interface for document management.
 
+![image](https://github.com/user-attachments/assets/ab6e74db-61eb-411a-9a84-a9f59e5beedc)
+
+
 ## Features
 
 - Upload PDF documents.

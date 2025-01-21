@@ -20,8 +20,7 @@ Document Summary Assistant is a web application that allows users to upload docu
 - **Node.js**
 - **Express.js**
 
-### Deployment
-- **Vercel**
+
 
 ## Prerequisites
 
@@ -46,24 +45,14 @@ Ensure you have the following installed:
    ```bash
    npm run dev
    ```
-   The application will be accessible at `http://localhost:3000`.
+   The application will be accessible at `http://localhost:5000`.
 
 4. Build the project for production:
    ```bash
    npm run build
    ```
 
-## Deployment
 
-### Deploying to Vercel
-1. Install the Vercel CLI:
-   ```bash
-   npm install -g vercel
-   ```
-
-2. Deploy the project:
-   ```bash
-   vercel
    ```
 
 ## Common Issues
@@ -106,9 +95,7 @@ Contributions are welcome! Please follow these steps:
    ```
 4. Submit a pull request to the main repository.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
